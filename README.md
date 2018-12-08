@@ -16,9 +16,11 @@ Tasks:
 
 2. Attempt different configurations for the regressor: 
 
-a) Attempt different numbers of hidden layers and different numbers of nodes in each hidden layer. Show 3 different configurations comparing their respective performance, and reasoning for the observed performance.
+   a) Attempt different numbers of hidden layers and different numbers of nodes in each hidden layer. Show 3 different
+    configurations comparing their respective performance, and reasoning for the observed performance.
 
-b) Attempt 2 different learning rates, reasoning for the observed effect of varying the learning rate on the time before convergence.
+   b) Attempt 2 different learning rates, reasoning for the observed effect of varying the learning rate on the time before
+   convergence.
 
 Having attempted different configurations for the regressor, use the optimal configurations you reached for the following experiments:
 
