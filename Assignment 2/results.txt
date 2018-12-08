@@ -1,0 +1,40 @@
+test_size = 0.1
+validation_size = 0.1
+layers = (16, 32, 64)
+Lambda = 1e-05
+batch_size = 64
+initial_learning_rate = 0.001
+epochs = 200
+Mean absolute error: 0.170692093323
+Mean squared  error: 0.0918212498447
+
+test_size = 0.1
+validation_size = 0.1
+layers = (64, 16, 8)
+Lambda = 1e-05
+batch_size = 64
+initial_learning_rate = 0.001
+epochs = 200
+Mean absolute error: 0.15489931994
+Mean squared  error: 0.0887620540093
+
+
+test_size = 0.1
+validation_size = 0.1
+layers = (64, 8, 8)
+Lambda = 1e-05
+batch_size = 64
+initial_learning_rate = 0.001
+epochs = 200
+Mean absolute error: 0.156020320394
+Mean squared  error: 0.0881288988814
+
+test_size = 0.1
+validation_size = 0.1
+layers = (64, 16, 8)
+Lambda = 1e-05
+batch_size = 64
+initial_learning_rate = 0.01
+epochs = 200
+Mean absolute error: 0.15775979729
+Mean squared  error: 0.0873330812258
